@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a tool to split a number of items into n sets of the same size that are comparable on various measures.
+- 🌱 I’m currently learning doing that with PyQt.
+
 <!--
 **doerte/doerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
